@@ -7,3 +7,4 @@ Feel free to explore the code as I build out functions for:
 * Determinants and inverses
 * System of equation solvers
 * Eigenvalue and eigenvector analysis
+* Other related problems building on this knowledge
